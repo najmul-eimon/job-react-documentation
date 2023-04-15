@@ -320,9 +320,6 @@ main-content CSS
   list-style-type: disc;
 }
 
-
-
-
 /*===========================================================
 mobile nav CSS
 =============================================================*/
@@ -413,6 +410,7 @@ mobile nav CSS
 
   .content h3 {
     font-size: 22px;
+    line-height: 32px;
   }
 
   .content h4 {
