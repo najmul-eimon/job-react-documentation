@@ -266,6 +266,7 @@ main-content CSS
   line-height: 32px;
   font-weight: 400;
   color: #46464F;
+  word-wrap: break-word;
 }
 
 .content p a,
@@ -356,6 +357,7 @@ mobile nav CSS
   left: 0;
   width: 100%;
   background-color: #fff;
+  z-index: 20;
 }
 
 .mobile-nav button {
@@ -405,11 +407,6 @@ mobile nav CSS
   }
 
   .title h2 {
-    font-size: 28px;
-    line-height: 32px;
-  }
-
-  .title h2 {
     font-size: 20px;
     line-height: 30px;
   }
@@ -417,6 +414,7 @@ mobile nav CSS
   .content h3 {
     font-size: 22px;
   }
+
   .content h4 {
     font-size: 18px;
     line-height: 26px;
